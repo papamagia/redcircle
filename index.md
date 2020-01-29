@@ -1,6 +1,2 @@
-<html>
-<body>
 Hello, world.
 I am a "github.io".
-</body>
-</html>
